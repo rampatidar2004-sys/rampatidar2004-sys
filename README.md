@@ -1,54 +1,58 @@
 # Hey, I'm Shriram Patidar 👋
 
-**MCA Student @ NIT Tiruchirappalli (2025–2028) · Software Development · DSA · AI/ML & GenAI**
+**MCA Student @ NIT Tiruchirappalli (2025–2028) · Software Engineering · DSA · Backend Systems · AI/ML & GenAI**
 
-I enjoy solving problems and building practical software across backend systems, full-stack applications, and applied AI. I learn by shipping projects, understanding the engineering trade-offs, and improving them through testing and iteration.
+I enjoy solving problems and building practical software across backend systems, full-stack applications, and applied AI. I learn by shipping projects, understanding engineering trade-offs, and improving them through testing and iteration.
 
 ---
 
 ## Now
 
 - Strengthening Data Structures & Algorithms and problem-solving.
-- Building full-stack applications with React, Node.js, Express, and Spring Boot.
+- Building backend systems with Java, Spring Boot, PostgreSQL, and distributed-systems concepts.
+- Developing full-stack applications with React, Node.js, Express, and REST APIs.
 - Exploring Machine Learning, Computer Vision, Generative AI, RAG, and Agentic AI.
 - Practising computer networking and network analysis with GNS3 and Wireshark.
-- Improving software quality through testing, Docker, CI, and clear documentation.
 
 ## Selected Projects
 
-| Project | What it does | Stack |
+| Project | What it demonstrates | Stack |
 |---|---|---|
-| [AegisDrive AI](https://github.com/rampatidar2004-sys/AegisDrive_AI) | Offline-first, real-time driver monitoring with explainable fatigue and accident-risk scoring; includes eye/mouth metrics, head-pose, phone-use and seat-belt checks, plus PDF/CSV reports. | Python · OpenCV · MediaPipe · YOLO11 · FastAPI · SQLite · Docker |
+| [AegisDrive AI](https://github.com/rampatidar2004-sys/AegisDrive_AI) | Offline-first driver monitoring with explainable fatigue/risk scoring and PDF/CSV reports. | Python · OpenCV · MediaPipe · YOLO11 · FastAPI · SQLite · Docker |
+| [JobFlow Orchestrator](https://github.com/rampatidar2004-sys/jobflow-orchestrator) | Distributed job scheduling, concurrent PostgreSQL job claims, lease recovery, bounded retries, and dependency-aware workflow DAGs. | Java 21 · Spring Boot · PostgreSQL · Redis · Kafka · React · Prometheus · Grafana |
+| [ThreatLens](https://github.com/rampatidar2004-sys/threatlens-cyber-threat-analyzer) | Local cyber-threat report analysis with evidence mapping to MITRE ATT&CK techniques. | Python · Flask · BM25 · MITRE ATT&CK · Ollama |
 | [Learnora](https://github.com/rampatidar2004-sys/learnora-learning-platform) | Course discovery and learning platform with search, filters, account registration, and protected course details. | Next.js · React · MongoDB |
-| [CircleTrack](https://github.com/rampatidar2004-sys/circletrack-friendship-manager) | Personal relationship tracker with check-ins, an interaction timeline, and communication analytics. | Next.js · React · Recharts |
-| [ToolNest](https://github.com/rampatidar2004-sys/toolnest-digital-tools-store) | Responsive digital-products storefront demo with catalogue browsing and an interactive cart. | React · Vite · Tailwind CSS |
-| [ThreatLens](https://github.com/rampatidar2004-sys/threatlens-cyber-threat-analyzer) | Local cyber-threat report analyzer that maps report evidence to MITRE ATT&CK techniques. | Python · Flask · BM25 · Ollama |
+
+### Additional projects
+
+- [CircleTrack](https://github.com/rampatidar2004-sys/circletrack-friendship-manager) — relationship check-ins, interaction timeline, and communication analytics.
+- [ToolNest](https://github.com/rampatidar2004-sys/toolnest-digital-tools-store) — responsive digital-products storefront demo with catalogue browsing and an interactive cart.
 
 ## Skills & Toolbox
 
-**Programming Languages & Scripting**  
+**Languages & Scripting**  
 C · C++ · Java · Python · JavaScript · TypeScript · SQL · Shell Scripting
 
-**Frontend Development**  
-React.js · HTML · CSS · Tailwind CSS
+**Frontend**  
+React.js · HTML · CSS · Tailwind CSS · Vite · React Router
 
 **Backend & Frameworks**  
-Node.js · Express.js · Spring Boot · FastAPI · REST APIs · JWT · MERN Stack
+Spring Boot · Spring Web · Spring Security · Spring Data JPA · JDBC · Node.js · Express.js · FastAPI · REST APIs · JWT · MERN Stack · Flyway
 
 **AI, Machine Learning & GenAI**  
 Machine Learning · scikit-learn · Pandas · NumPy · Generative AI · Agentic AI · RAG Pipelines · Gemini API · OpenAI API · Streamlit · Matplotlib · OpenCV · MediaPipe Face Mesh · YOLO11
 
-**Databases & Caching**  
-PostgreSQL · MySQL · SQLite · MongoDB · Redis
+**Databases, Cache & Messaging**  
+PostgreSQL · MySQL · SQLite · MongoDB · Redis · Apache Kafka
 
 **Networking & Graph Analysis**  
 GNS3 · Wireshark · Gephi · Computer Networks
 
-**DevOps, Testing & Developer Tools**  
-Git · GitHub · Docker · Docker Compose · GitHub Actions · VS Code · IntelliJ IDEA · JUnit 5 · Mockito · Testcontainers · Prometheus · Grafana
+**DevOps, Observability & Testing**  
+Git · GitHub · Maven · Docker · Docker Compose · GitHub Actions · Spring Actuator · Micrometer · Prometheus · Grafana · JUnit 5 · Mockito · Testcontainers · VS Code · IntelliJ IDEA
 
-**Core Computer Science**  
-Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks · Concurrency · Distributed Systems · System Design
+**Core Computer Science & Engineering Concepts**  
+Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks · Concurrency · Distributed Systems · Workflow DAGs · System Design
 
 ## Education
 
